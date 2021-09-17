@@ -20,7 +20,7 @@ public class Etudiant {
 	private String surname;
 	private String Speciality;
 	private Date birthday ;
-	
+	private String Sexe;
 	
 	
 	
